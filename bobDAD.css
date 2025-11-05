@@ -208,7 +208,8 @@ h1 {
 
 
 .aboutbox {
-	min-height: 100vh;
+	position: relative;
+	left: 10vw;
 	display: flex;
 	justify-content: center;
 	align-items: center;
