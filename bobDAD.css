@@ -363,7 +363,7 @@ blankin a{
 }
 
 blank blankin a {
-  display: block;
+  display: inline-block;
   color: white;
   text-align: center;
   padding: 40px 16px;
