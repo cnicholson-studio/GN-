@@ -358,11 +358,11 @@ place {
   overflow: hidden;
 }
 
-blankin a{	
+.blankin a{	
   float: center;
 }
 
-blank blankin a {
+.blank blankin a {
   display: inline-block;
   color: white;
   text-align: center;
@@ -370,7 +370,7 @@ blank blankin a {
   text-decoration: none;
 }
 
-blank blankin a:hover {
+.blank blankin a:hover {
   text-decoration: underline;
 }
 	
