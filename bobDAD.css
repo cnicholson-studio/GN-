@@ -209,8 +209,7 @@ h1 {
 
 .aboutbox {
 	position: relative;
-	left: 10vw;
-	display: flex;
+	left: 5vw;
 	justify-content: center;
 	align-items: center;
 	
