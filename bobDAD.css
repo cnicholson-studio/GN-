@@ -354,10 +354,16 @@ place {
 
 
 blank {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+blankin a{	
   float: center;
 }
 
-blankin a {
+blank blankin a {
   display: block;
   color: white;
   text-align: center;
@@ -365,7 +371,7 @@ blankin a {
   text-decoration: none;
 }
 
-blankin a:hover {
+blank blankin a:hover {
   text-decoration: underline;
 }
 	
