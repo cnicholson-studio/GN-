@@ -212,7 +212,7 @@ h1 {
     height: 75%;
     padding: 10px;
 	align-content: center;
-	text-align: center;
+	text-align: left;
     margin: 10px;
 	
 }
@@ -222,6 +222,7 @@ about{
 	font-size: 14px;
 	font-style: none !important;
 	letter-spacing: 0.15rem !important;
+	align-content: center;
 	text-align: left !important;
 	color: black;
 }
