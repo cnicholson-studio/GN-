@@ -350,4 +350,22 @@ te:hover {
 place {
 	margin-top: 100px;
 }
+
+
+
+blank {
+  float: center;
+}
+
+blankin a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+blankin a:hover {
+  text-decoration: underline;
+}
 	
