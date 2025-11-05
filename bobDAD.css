@@ -208,11 +208,10 @@ h1 {
 
 
 .aboutbox {
-	width: 80%;
-    height: 75%;
-    padding: 10px;
-	align-content: center;
-    margin: 10px;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	
 }
 
