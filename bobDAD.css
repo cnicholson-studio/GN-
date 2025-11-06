@@ -364,7 +364,7 @@ place {
 
 .blank blankin a {
   display: inline-block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 40px 16px;
   text-decoration: none;
